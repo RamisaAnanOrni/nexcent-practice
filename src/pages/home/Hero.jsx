@@ -31,10 +31,18 @@ minimalistic & modern</h1>
 
 {/*hover button for displaying tooltip box*/}
 
-<div className='hiden xl:block absolute bottom-40 left-25 '>
+<div className='hiden xl:block absolute bottom-40 left-24 '>
   <TooltipButton position="bottom"/>
 </div>
-
+<div className='hiden xl:block absolute bottom-50 left-96 '>
+  <TooltipButton position="bottom"/>
+</div>
+<div className='hiden xl:block absolute bottom-24 right-[650px]'>
+  <TooltipButton position="bottom"/>
+</div>
+<div className='hiden xl:block absolute bottom-12 right-16'>
+  <TooltipButton position="bottom"/>
+</div>
     </section>
   )
 }
