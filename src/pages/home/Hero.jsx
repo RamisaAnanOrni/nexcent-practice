@@ -10,7 +10,7 @@ const Hero = () => {
     <h1 className='text-4xl lg:text-6xl  font-medium lg:leading-tight leading-snug'>Make your interior more
 minimalistic & modern</h1>
 
-<p className='text-2xl font-normal lg:w-1/2 mx-auto'>Turn your room with panto into a lot more minimalist and modern with ease and speed</p>
+<p className='text-2xl font-normal lg:w-2/2 mx-auto'>Turn your room with panto into a lot more minimalist and modern with ease and speed</p>
 
 {/*Search Field*/}
 <div className='relative inline-block z-30'> 
